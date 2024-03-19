@@ -1,3 +1,3 @@
 variable "availbility_zones" {
-    type = list
+  type = list(any)
 }
