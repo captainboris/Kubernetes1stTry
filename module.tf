@@ -34,3 +34,7 @@ module "vpc" {
         Environment = "dev"
   }
 }
+
+module "eks-config" {
+    
+}
